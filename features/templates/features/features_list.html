@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block container %}
+    <div class="container">
+        <ul>
+            {% for feature in features_list %}
+                <li> <a href="detail/{{feature.id}}">{{feature.description}}</a> </li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock  %}
+
+    

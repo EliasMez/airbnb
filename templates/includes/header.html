@@ -1,0 +1,27 @@
+{% url 'home_url' as home_url %}
+{% url 'about_url' as about_url %}
+{% url 'about_us_url' as about_us_url %}
+
+<header class="d-flex justify-content-center py-3">
+    <ul class="nav nav-pills">
+        {% if request.path == home_url %}
+            <li class="nav-item"><a href="{{home_url}}" class="nav-link active" aria-current="page">Home</a></li>
+        {% else %}
+            <li class="nav-item"><a href="{{home_url}}" class="nav-link" aria-current="page">Home</a></li>
+        {% endif %}
+
+        {% if request.path == about_url %}
+            <li class="nav-item"><a href="{{about_url}}" class="nav-link active" aria-current="page">About</a></li>
+        {% else %}
+            <li class="nav-item"><a href="{{about_url}}" class="nav-link" aria-current="page">About</a></li>
+        {% endif %}
+
+        {% if request.path == about_us_url %}
+            <li class="nav-item"><a href="{{about_us_url}}" class="nav-link active" aria-current="page">About Us</a></li>
+        {% else %}
+            <li class="nav-item"><a href="{{about_us_url}}" class="nav-link" aria-current="page">About Us</a></li>
+        {% endif %}
+     
+    </ul>
+  </header>
+
