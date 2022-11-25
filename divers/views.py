@@ -1,4 +1,8 @@
 from django.shortcuts import render
+from pandas import read_csv
+
+
+# input_path = '/csv_output/netherlands/amsterdam'
 
 def f():
     return 'function'
@@ -10,7 +14,10 @@ def home_view(request):
     return render(request, 'divers/home_page.html', context=context)
 
 def dashboard_view(request):
-    context = {}
+    file = open("static/netherlands/amsterdam/df1.csv")
+    df = read_csv(file,encoding='latin')
+    df_html = df.to_html()
+    context = {'df_html':df_html, 'df1':df, 'line0':df.iloc[0]}
     return render(request, 'divers/dashboard_page.html', context=context)
 
 
