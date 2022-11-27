@@ -6,7 +6,7 @@
 
   <ul>
     {% for city in cities  %}
-      <li> <a href="{{dashboard_url}}" class="city">{{city}}</a></li>
+      <li> <a href="{{dashboard_url}}?citypath={{city.path}}&cityname={{city.name}}&df=df1" class="city">{{city.name}}</a></li>
     {% endfor %}
   </ul>
     
