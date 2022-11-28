@@ -1,0 +1,139 @@
+neighbourhood_cleansed,number_of_hosts,number_of_reviews
+Adlershof,22,131
+Albrechtstr.,70,1193
+Alexanderplatz,614,44541
+Allende-Viertel,2,95
+Alt  Treptow,107,1754
+Alt-HohenschÃ¶nhausen Nord,15,437
+Alt-HohenschÃ¶nhausen SÃ¼d,17,1027
+Alt-Lichtenberg,77,2590
+Altglienicke,20,1451
+Altstadt-Kietz,5,170
+BarstraÃe,40,928
+Baumschulenweg,41,754
+Biesdorf,22,1312
+Blankenburg/Heinersdorf/MÃ¤rchenland,19,992
+Blankenfelde/NiederschÃ¶nhausen,41,1615
+Bohnsdorf,12,362
+Britz,60,558
+Brunnenstr. Nord,177,3485
+Brunnenstr. SÃ¼d,464,19398
+BrunsbÃ¼tteler Damm,10,115
+Buch,20,584
+Buchholz,17,583
+Buckow,11,615
+Buckow Nord,3,77
+Charlottenburg Nord,7,219
+Dammvorstadt,19,423
+Drakestr.,47,1312
+DÃ¼sseldorfer StraÃe,123,3875
+Falkenhagener Feld,11,932
+Fennpfuhl,33,532
+Forst Grunewald,2,144
+Frankfurter Allee Nord,392,7122
+Frankfurter Allee SÃ¼d,27,1358
+Frankfurter Allee SÃ¼d FK,782,20943
+Friedenau,109,2540
+Friedrichsfelde Nord,24,1310
+Friedrichsfelde SÃ¼d,26,229
+Friedrichshagen,21,588
+Gatow / Kladow,30,1380
+Gropiusstadt,10,575
+Grunewald,38,1134
+GrÃ¼nau,9,359
+Hakenfelde,16,199
+Halensee,53,1520
+Haselhorst,6,635
+Heerstrasse,28,1297
+HeerstraÃe Nord,8,257
+Hellersdorf-Nord,7,84
+Hellersdorf-Ost,2,9
+Hellersdorf-SÃ¼d,1,5
+Helmholtzplatz,281,11414
+Johannisthal,23,567
+KantstraÃe,106,3278
+Karl-Marx-Allee-Nord,195,5156
+Karl-Marx-Allee-SÃ¼d,206,7608
+Karlshorst,35,787
+Karow,6,251
+Kaulsdorf,13,550
+KurfÃ¼rstendamm,77,2051
+KÃ¶lln. Vorstadt/Spindlersf.,7,64
+KÃ¶llnische Heide,26,549
+KÃ¶penick-Nord,14,695
+KÃ¶penick-SÃ¼d,7,138
+Lankwitz,20,235
+Lichtenrade,26,947
+MV 1,9,308
+MV 2,4,408
+Mahlsdorf,33,2032
+"Malchow, Wartenberg und Falkenberg",4,155
+Mariendorf,34,799
+Marienfelde,8,108
+Marzahn-Mitte,8,37
+Marzahn-Nord,3,8
+Marzahn-SÃ¼d,12,303
+Mierendorffplatz,58,2031
+Moabit Ost,227,8924
+Moabit West,294,11489
+MÃ¼ggelheim,16,410
+Neu Lichtenberg,125,2931
+Neu-HohenschÃ¶nhausen Nord,2,0
+Neu-HohenschÃ¶nhausen SÃ¼d,7,150
+Neue KantstraÃe,93,3609
+NeukÃ¶llner Mitte/Zentrum,434,8933
+NiederschÃ¶neweide,23,371
+Nord 1,39,1164
+Nord 2,16,761
+OberschÃ¶neweide,28,304
+Osloer StraÃe,189,2734
+Ost 1,35,849
+Ost 2,27,1247
+OstpreuÃendamm,25,478
+Otto-Suhr-Allee,119,5173
+Pankow SÃ¼d,129,2539
+Pankow Zentrum,84,1612
+Parkviertel,204,4963
+PlÃ¤nterwald,40,431
+Prenzlauer Berg Nord,235,10569
+Prenzlauer Berg Nordwest,356,9241
+Prenzlauer Berg Ost,185,6503
+Prenzlauer Berg SÃ¼d,353,11904
+Prenzlauer Berg SÃ¼dwest,345,20200
+Rahnsdorf/Hessenwinkel,48,2130
+Regierungsviertel,106,9492
+ReuterstraÃe,601,11390
+Rixdorf,472,8388
+Rudow,26,1740
+Rummelsburger Bucht,36,1152
+Schillerpromenade,393,8443
+SchloÃ Charlottenburg,88,4780
+SchloÃstr.,43,1027
+Schmargendorf,22,510
+SchmÃ¶ckwitz/Karolinenhof/Rauchfangswerder,41,1318
+SchÃ¶neberg-Nord,267,14053
+SchÃ¶neberg-SÃ¼d,277,8771
+SchÃ¶nholz/Wilhelmsruh/Rosenthal,20,456
+Siemensstadt,6,20
+Spandau Mitte,16,335
+SÃ¼dliche Friedrichstadt,212,9182
+Teltower Damm,55,1766
+Tempelhof,147,4464
+Tempelhofer Vorstadt,714,30225
+Tiergarten SÃ¼d,117,5312
+Volkspark Wilmersdorf,103,2814
+Wedding Zentrum,312,7112
+WeiÃensee,135,4674
+WeiÃensee Ost,21,462
+West 1,11,311
+West 2,19,459
+West 3,10,221
+West 4,18,1033
+West 5,12,320
+Westend,67,1651
+Wiesbadener StraÃe,25,602
+Wilhelmstadt,14,227
+Zehlendorf  Nord,50,1677
+Zehlendorf  SÃ¼dwest,87,4118
+nÃ¶rdliche Luisenstadt,254,7647
+sÃ¼dliche Luisenstadt,422,13170

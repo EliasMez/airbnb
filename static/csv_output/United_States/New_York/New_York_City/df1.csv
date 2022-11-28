@@ -1,0 +1,245 @@
+neighbourhood_cleansed,number_of_hosts,number_of_reviews
+Allerton,35,2185
+Arden Heights,7,121
+Arrochar,12,771
+Arverne,87,3728
+Astoria,511,20294
+Bath Beach,20,824
+Battery Park City,80,1379
+Bay Ridge,94,3995
+Bay Terrace,3,137
+Baychester,20,898
+Bayside,29,1587
+Bayswater,18,503
+Bedford-Stuyvesant,1975,93763
+Belle Harbor,7,130
+Bellerose,16,285
+Belmont,20,503
+Bensonhurst,50,1703
+Bergen Beach,14,612
+Bloomfield,1,49
+Boerum Hill,114,4192
+Borough Park,48,1787
+Breezy Point,1,65
+Briarwood,31,1120
+Brighton Beach,43,1106
+Broad Channel,1,86
+Bronx Park,6,855
+Bronxdale,18,550
+Brooklyn Heights,89,2247
+Brownsville,73,2802
+Bull's Head,1,31
+Bushwick,1185,37002
+Cambria Heights,57,2242
+Canarsie,163,9397
+Carroll Gardens,167,5761
+Castle Hill,4,258
+Castleton Corners,7,201
+Central Park,48,2699
+Chelsea,609,23659
+"Chelsea, Staten Island",2,49
+Chinatown,188,5598
+City Island,13,834
+Civic Center,30,157
+Claremont Village,25,455
+Clason Point,19,758
+Clifton,11,461
+Clinton Hill,328,13092
+Co-op City,2,25
+Cobble Hill,61,2680
+College Point,27,1253
+Columbia St,27,918
+Concord,7,167
+Concourse,43,2699
+Concourse Village,31,752
+Coney Island,13,871
+Corona,38,1771
+Country Club,1,13
+Crotona Park,2,57
+Crown Heights,932,33951
+Cypress Hills,91,5019
+DUMBO,24,1570
+Ditmars Steinway,198,8096
+Dongan Hills,6,227
+Douglaston,4,143
+Downtown Brooklyn,53,1522
+Dyker Heights,12,363
+East Elmhurst,146,14777
+East Flatbush,358,15930
+East Harlem,559,24161
+East Morrisania,9,57
+East New York,185,10625
+East Village,893,28661
+Eastchester,14,692
+Edenwald,25,501
+Edgemere,9,362
+Ellis Island,42,3500
+Elmhurst,120,5090
+Eltingville,5,128
+Emerson Hill,4,91
+Far Rockaway,37,1035
+Ferry Point Park,1,19
+Fieldston,8,146
+Financial District,219,12158
+Flatbush,388,12490
+Flatiron District,62,2175
+Flatlands,80,2660
+Floral Park,10,247
+Flushing,204,16344
+Flushing Meadows Corona Park,9,513
+Fordham,51,628
+Forest Hills,102,3066
+Forest Park,14,248
+Fort Greene,276,9933
+Fort Hamilton,35,779
+Fort Wadsworth,1,0
+Fresh Meadows,20,1029
+Freshkills Park,8,105
+Gerritsen Beach,5,81
+Glendale,39,1232
+Gowanus,137,6275
+Gramercy,178,4868
+Graniteville,4,52
+Grant City,4,261
+Gravesend,47,1902
+Great Kills,4,241
+Green-Wood Cemetery,8,386
+Greenpoint,565,13164
+Greenwich Village,194,2981
+Grymes Hill,7,371
+Harlem,1368,62741
+Hell's Kitchen,954,41647
+Highbridge,19,287
+Hollis,20,362
+Hollis Hills,1,1
+Holliswood,3,23
+Howard Beach,28,1372
+Howland Hook,11,422
+Huguenot,4,563
+Hunts Point,15,563
+Inwood,139,3818
+Jackson Heights,123,6472
+Jamaica,214,16545
+Jamaica Estates,20,1164
+Jamaica Hills,12,240
+Kensington,92,2278
+Kew Gardens,29,525
+Kew Gardens Hills,30,848
+Kingsbridge,61,1250
+Kips Bay,255,4774
+LaGuardia Airport,2,146
+Laurelton,46,1715
+Lighthouse Hill,2,60
+Little Italy,55,2154
+Little Neck,6,224
+Long Island City,330,11878
+Longwood,50,1295
+Lower East Side,484,20049
+Manhattan Beach,9,480
+Marble Hill,8,376
+Marine Park,15,858
+Mariners Harbor,16,527
+Maspeth,63,3599
+Melrose,14,616
+Middle Village,24,890
+Midland Beach,8,241
+Midtown,724,28900
+Midwood,77,1958
+Mill Basin,11,186
+Morningside Heights,166,1871
+Morris Heights,21,342
+Morris Park,18,725
+Morrisania,17,531
+Mott Haven,60,2850
+Mount Eden,8,279
+Mount Hope,20,886
+Murray Hill,163,3453
+Navy Yard,5,27
+Neponsit,2,72
+New Brighton,9,653
+New Dorp,1,0
+New Dorp Beach,5,367
+New Springville,3,81
+NoHo,39,1165
+Nolita,131,4934
+North Riverdale,23,906
+Norwood,23,504
+Oakwood,2,77
+Olinville,8,454
+Ozone Park,62,2405
+Park Hill,7,555
+Park Slope,283,13746
+Parkchester,33,1983
+Pelham Bay,12,443
+Pelham Bay Park,3,100
+Pelham Gardens,27,1442
+Pelham Islands,1,0
+Port Ivory,8,748
+Port Morris,23,1333
+Port Richmond,11,378
+Prince's Bay,6,28
+Prospect Heights,196,6485
+Prospect Park,7,40
+Prospect-Lefferts Gardens,324,12776
+Queens Village,75,3311
+Randall Manor,29,915
+Red Hook,53,2556
+Rego Park,65,1597
+Richmond Hill,76,2663
+Richmondtown,3,174
+Ridgewood,209,7027
+Riverdale,9,257
+Rockaway Beach,54,3596
+Rockaway Park,50,3761
+Roosevelt Island,40,1370
+Rosebank,6,203
+Rosedale,109,4494
+Schuylerville,9,910
+Sea Gate,3,75
+Sheepshead Bay,122,4881
+Shore Acres,8,212
+Silver Lake,3,363
+SoHo,195,7623
+Soundview,12,339
+South Beach,2,109
+South Ozone Park,52,3177
+South Slope,164,7177
+Springfield Gardens,98,7299
+Spuyten Duyvil,5,136
+St. Albans,89,5053
+St. George,32,2535
+Stapleton,14,1148
+Stuyvesant Town,54,305
+Sunnyside,173,6397
+Sunset Park,217,7993
+Theater District,128,9454
+Throgs Neck,25,1476
+Todt Hill,4,59
+Tompkinsville,22,934
+Tottenville,6,156
+Tremont,17,410
+Tribeca,109,1663
+Two Bridges,39,1346
+Unionport,11,344
+University Heights,10,878
+Upper East Side,827,18352
+Upper West Side,1113,34432
+Van Cortlandt Park,27,1130
+Van Nest,18,899
+Vinegar Hill,27,318
+Wakefield,128,5457
+Washington Heights,474,13679
+West Brighton,16,763
+West Farms,4,23
+West Village,445,11404
+Westchester Square,4,340
+Westerleigh,1,97
+Whitestone,12,356
+Williamsbridge,45,1623
+Williamsburg,2054,60049
+Willowbrook,1,39
+Windsor Terrace,85,4461
+Woodhaven,46,3202
+Woodlawn,6,532
+Woodrow,1,54
+Woodside,114,5194

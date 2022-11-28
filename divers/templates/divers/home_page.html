@@ -4,10 +4,52 @@
 
 {% url 'dashboard_url' as dashboard_url %}
 
-  <ul>
+<br>
+<br>
+
+  {% comment %} <ul class="list-group">
     {% for city in cities  %}
-      <li> <a href="{{dashboard_url}}?citypath={{city.path}}&cityname={{city.name}}&df=df1" class="city">{{city.name}}</a></li>
+      <li class="list-group-item"> <a href="{{dashboard_url}}?citypath={{city.path}}&cityname={{city.name}}&df=df1" class="city">{{city.name}}</a></li>
     {% endfor %}
-  </ul>
-    
+  </ul> {% endcomment %}
+  <div class="container">
+    <div class='row'>
+
+
+    <div class="col-3">
+    <ul class="list-group">
+    {% for city in cities0  %}
+      <li class="list-group-item"> <a href="{{dashboard_url}}?citypath={{city.path}}&cityname={{city.name}}&df=df1" class="city">{{city.name}}</a></li>
+    {% endfor %}
+    </ul>
+    </div>
+
+    <div class="col-3">
+    <ul class="list-group">
+    {% for city in cities1  %}
+      <li class="list-group-item"> <a href="{{dashboard_url}}?citypath={{city.path}}&cityname={{city.name}}&df=df1" class="city">{{city.name}}</a></li>
+    {% endfor %}
+    </ul>
+    </div>
+
+    <div class="col-3">
+      <ul class="list-group">
+      {% for city in cities2  %}
+        <li class="list-group-item"> <a href="{{dashboard_url}}?citypath={{city.path}}&cityname={{city.name}}&df=df1" class="city">{{city.name}}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
+
+    <div class="col-3">
+      <ul class="list-group">
+      {% for city in cities3  %}
+        <li class="list-group-item"> <a href="{{dashboard_url}}?citypath={{city.path}}&cityname={{city.name}}&df=df1" class="city">{{city.name}}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
+
+
+  </div>
+  </div>
+
 {% endblock content %}

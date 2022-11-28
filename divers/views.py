@@ -11,8 +11,11 @@ def f():
     return 'function'
 
 def home_view(request):
-    print(cities)
-    context = {'cities' : cities}
+    cities0 = cities[0::4]
+    cities1 = cities[1::4]
+    cities2 = cities[2::4]
+    cities3 = cities[3::4]
+    context = {'cities' : cities, 'cities0' : cities0, 'cities1' : cities1, 'cities2' : cities2, 'cities3' : cities3}
     # import pudb;pu.db()
     return render(request, 'divers/home_page.html', context=context)
 

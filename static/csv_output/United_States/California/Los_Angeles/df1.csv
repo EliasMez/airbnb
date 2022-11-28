@@ -1,0 +1,307 @@
+neighbourhood_cleansed,number_of_hosts,number_of_reviews
+Acton,10,123
+Adams-Normandie,19,1567
+Agoura Hills,50,1478
+Agua Dulce,13,726
+Alhambra,202,19202
+Aliso Viejo,42,1024
+Aliso and Wood Regional Park,1,66
+Alondra Park,14,1014
+Altadena,158,11947
+Anaheim,427,44471
+Angeles Crest,38,2374
+Arcadia,115,2440
+Arleta,5,459
+Arlington Heights,31,3884
+Artesia,13,602
+Athens,12,396
+Atwater Village,76,5938
+Avalon,50,7735
+Avocado Heights,6,544
+Azusa,45,3494
+Baldwin Hills/Crenshaw,57,1557
+Baldwin Park,40,2093
+Bel-Air,50,818
+Bell,8,839
+Bell Gardens,4,23
+Bellflower,32,1276
+Beverly Crest,127,3928
+Beverly Grove,300,7807
+Beverly Hills,393,12238
+Beverlywood,16,850
+Boyle Heights,50,2959
+Brea,31,2676
+Brentwood,147,3199
+Broadway-Manchester,12,432
+Buena Park,28,1448
+Burbank,307,24531
+Calabasas,78,1724
+Canoga Park,55,2249
+Carson,70,4314
+Carthay,62,4414
+Castaic,13,1064
+Castaic Canyons,24,524
+Central-Alameda,13,77
+Century City,19,786
+Cerritos,20,441
+Charter Oak,7,595
+Chatsworth,64,2678
+Chatsworth Reservoir,3,49
+Chesterfield Square,12,342
+Cheviot Hills,30,1208
+Chinatown,39,1447
+Citrus,3,22
+Claremont,69,3939
+Cleveland National Forest,1,4
+Commerce,25,468
+Compton,36,873
+Costa Mesa,188,22225
+Covina,34,2359
+Cudahy,2,13
+Culver City,287,23866
+Cypress,12,323
+Cypress Park,12,768
+Dana Point,230,11289
+Del Aire,45,6744
+Del Rey,173,9627
+Desert View Highlands,2,66
+Diamond Bar,102,1835
+Downey,65,3920
+Downtown,629,21987
+Duarte,18,375
+Eagle Rock,117,6910
+East Hollywood,172,7141
+East Los Angeles,125,12074
+East Pasadena,27,3845
+East San Gabriel,53,2865
+East Whittier,7,229
+Echo Park,268,17847
+El Monte,88,6288
+El Segundo,65,10776
+El Sereno,52,3901
+Elizabeth Lake,2,7
+Elysian Park,5,623
+Elysian Valley,21,883
+Emerald Bay,3,8
+Encino,124,4067
+Exposition Park,58,1851
+Fairfax,163,6730
+Florence,7,71
+Florence-Firestone,23,1428
+Fountain Valley,134,8509
+Fullerton,137,14642
+Garden Grove,158,6947
+Gardena,85,7994
+Glassell Park,56,4566
+Glendale,471,24205
+Glendora,42,3008
+Gramercy Park,31,1228
+Granada Hills,38,1889
+Green Meadows,5,482
+Green Valley,6,556
+Griffith Park,8,136
+Hacienda Heights,114,5958
+Hancock Park,69,2360
+Harbor City,13,368
+Harbor Gateway,33,906
+Harvard Heights,37,1971
+Harvard Park,5,271
+Hasley Canyon,2,204
+Hawaiian Gardens,6,166
+Hawthorne,166,13601
+Hermosa Beach,166,7266
+Hidden Hills,4,73
+Highland Park,143,9471
+Historic South-Central,29,793
+Hollywood,772,42023
+Hollywood Hills,430,29927
+Hollywood Hills West,369,16014
+Huntington Beach,381,24985
+Huntington Park,11,193
+Hyde Park,91,3782
+Industry,18,691
+Inglewood,414,37091
+Irvine,460,8522
+Irwindale,4,707
+Jefferson Park,64,3521
+Koreatown,240,8281
+La Canada Flintridge,27,1526
+La Crescenta-Montrose,19,2094
+La Habra,17,817
+La Habra Heights,14,292
+La Mirada,12,492
+La Palma,7,235
+La Puente,14,809
+La Verne,26,1439
+Ladera Heights,45,3214
+Ladera Ranch,13,546
+Laguna Beach,220,14920
+Laguna Hills,63,3787
+Laguna Niguel,113,3472
+Laguna Woods,4,52
+Lake Balboa,57,2317
+Lake Forest,72,1735
+Lake Hughes,6,95
+Lake Los Angeles,5,84
+Lake View Terrace,3,79
+Lakewood,58,2546
+Lancaster,106,6638
+Larchmont,55,2411
+Lawndale,57,3732
+Leimert Park,24,1170
+Lennox,33,2002
+Leona Valley,4,69
+Lincoln Heights,32,1360
+Lomita,23,1643
+Long Beach,955,76364
+Lopez/Kagel Canyons,3,2
+Los Alamitos,5,191
+Los Feliz,223,9108
+Lynwood,15,1651
+Malibu,236,20365
+Manchester Square,21,379
+Manhattan Beach,192,3288
+Mar Vista,225,14052
+Marina del Rey,198,7958
+Mayflower Village,25,1005
+Maywood,6,338
+Mid-City,261,16318
+Mid-Wilshire,319,13461
+Midway City,56,4265
+Mission Hills,7,246
+Mission Viejo,76,2802
+Monrovia,80,4794
+Montebello,29,1356
+Montecito Heights,55,4014
+Monterey Park,112,9341
+Mount Washington,95,7785
+Newport Beach,467,47804
+North El Monte,10,936
+North Hills,31,1370
+North Hollywood,284,11497
+North Tustin,45,1930
+North Whittier,3,219
+Northeast Antelope Valley,8,134
+Northridge,80,3252
+Northwest Antelope Valley,6,46
+Northwest Palmdale,10,133
+Norwalk,37,4129
+Orange,172,12994
+Pacific Palisades,121,6781
+Pacoima,11,265
+Palmdale,84,3775
+Palms,149,5321
+Palos Verdes Estates,18,71
+Panorama City,18,280
+Paramount,12,85
+Pasadena,324,28905
+Pico Rivera,21,2336
+Pico-Robertson,120,4324
+Pico-Union,52,3125
+Placentia,26,1764
+Playa Vista,58,2124
+Playa del Rey,92,3354
+Pomona,114,4955
+Porter Ranch,17,588
+Quartz Hill,13,549
+Rancho Dominguez,4,48
+Rancho Palos Verdes,53,1706
+Rancho Park,33,1032
+Redondo Beach,282,15427
+Reseda,91,4884
+Ridge Route,5,2055
+Rolling Hills,5,421
+Rolling Hills Estates,10,321
+Rosemead,76,6893
+Rossmoor,1,3
+Rowland Heights,199,14886
+San Clemente,28,1407
+San Dimas,33,882
+San Fernando,8,1327
+San Gabriel,80,4882
+San Juan Capistrano,27,829
+San Marino,14,132
+San Pasqual,11,357
+San Pedro,89,5740
+Santa Ana,310,30225
+Santa Clarita,145,5675
+Santa Fe Springs,8,261
+Santa Monica,609,44584
+Sawtelle,245,10522
+Seal Beach,32,914
+Sepulveda Basin,4,254
+Shadow Hills,21,557
+Sherman Oaks,276,12718
+Sierra Madre,21,996
+Signal Hill,26,2101
+Silver Lake,348,30294
+Silverado Canyon,2,19
+South Diamond Bar,2,3
+South El Monte,9,225
+South Gate,21,1031
+South Park,7,24
+South Pasadena,63,4611
+South San Gabriel,23,2011
+South San Jose Hills,9,373
+South Whittier,27,1362
+Southeast Antelope Valley,14,795
+Stanton,44,3066
+Stevenson Ranch,9,733
+Studio City,245,11074
+Sun Valley,58,3122
+Sun Village,3,43
+Sunland,7,112
+Sylmar,22,662
+Tarzana,133,3473
+Temple City,87,3351
+Toluca Lake,45,2492
+Topanga,236,30521
+Torrance,169,9773
+Tujunga,16,314
+Tujunga Canyons,9,187
+Tustin,101,4158
+Unincorporated Catalina Island,4,510
+Unincorporated Santa Monica Mountains,143,13322
+Unincorporated Santa Susana Mountains,11,718
+Universal City,11,627
+University Park,45,2102
+Val Verde,5,489
+Valinda,16,2030
+Valley Glen,142,5755
+Valley Village,114,4606
+Van Nuys,145,5451
+Venice,988,87197
+Vermont Knolls,17,628
+Vermont Square,57,2836
+Vermont Vista,9,369
+Vermont-Slauson,19,371
+Vernon,28,827
+Veterans Administration,10,33
+View Park-Windsor Hills,94,6394
+Villa Park,1,10
+Vincent,7,153
+Walnut,54,1013
+Walnut Park,1,9
+Watts,7,685
+West Adams,84,3985
+West Carson,32,1021
+West Compton,6,83
+West Covina,110,3501
+West Hills,79,1867
+West Hollywood,564,25454
+West Los Angeles,63,3803
+West Puente Valley,10,232
+West Whittier-Los Nietos,10,358
+Westchester,163,7633
+Westlake,253,7543
+Westlake Village,23,909
+Westminster,91,4266
+Westmont,40,1784
+Westwood,186,6161
+Whittier,74,6340
+Willowbrook,16,640
+Wilmington,10,853
+Windsor Square,26,1023
+Winnetka,68,2522
+Woodland Hills,271,9053
+Yorba Linda,29,293
