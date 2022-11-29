@@ -26,15 +26,21 @@ def dashboard_view(request):
     if citypath not in [city['path'] for city in cities] or cityname not in [city['name'] for city in cities]:
         citypath = cities[0]['path']
         cityname = cities[0]['name']
-    df = request.GET["df"]
-    if df not in dfs:
-        df = 'df1'
-    file = open(f"{citypath}/{df}.csv")
+    visupath = citypath.replace('csv_output','visu')
+    str_df = request.GET["df"]
+    if str_df not in dfs:
+        str_df = 'df1'
+    file = open(f"{citypath}/{str_df}.csv")
     df = read_csv(file,encoding='latin')
+    file.close()
+    # if df !='df8' :
+    #     file = open(f"{visupath}/{df}.png")
+    #     visu = 1
+    #     file.close()
     # df_html = df.to_html(classes="table table-striped table-sm", index=False, justify='left')
     series = np.array([df[column] for column in df.columns])
     series = np.transpose(series)
-    context = {'df':df, 'series':series, 'citypath':citypath, 'cityname':cityname} #, 'df_html' : df_html
+    context = {'df':df, 'series':series, 'citypath':citypath, 'cityname':cityname, 'visupath':visupath, 'str_df':str_df} #, 'df_html' : df_html
     return render(request, 'divers/dashboard_page.html', context=context)
 
 

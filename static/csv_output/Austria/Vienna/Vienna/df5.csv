@@ -1,5 +1,5 @@
-room_type,median,max,min,first_quantile,last_quantile
-Entire home/apt,157.0,21000.0,11.0,111.0,246.0
-Hotel room,142.0,422.0,0.0,86.0,226.0
-Private room,99.0,9749.0,13.0,64.0,158.0
-Shared room,44.0,8266.0,18.0,34.5,61.0
+median,max,min,first_quantile,last_quantile
+157.0,21000.0,11.0,111.0,246.0
+142.0,422.0,0.0,86.0,226.0
+99.0,9749.0,13.0,64.0,158.0
+44.0,8266.0,18.0,34.5,61.0

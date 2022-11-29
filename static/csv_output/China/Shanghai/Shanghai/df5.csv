@@ -1,2 +1,2 @@
-room_type,median,max,min,first_quantile,last_quantile
-Entire home/apt,266.0,266.0,266.0,266.0,266.0
+median,max,min,first_quantile,last_quantile
+266.0,266.0,266.0,266.0,266.0
