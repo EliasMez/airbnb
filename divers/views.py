@@ -4,6 +4,7 @@ import numpy as np
 import os
 
 cities=[{'name':x[0].split("/")[-1], 'path': x[0]} for x in os.walk('static/csv_output/') if x[1]==[]]
+cities = sorted(cities, key=lambda d: d['name'])
 
 dfs = ["df"+str(i) for i in range(1,9)]
 
@@ -26,7 +27,7 @@ def dashboard_view(request):
     if citypath not in [city['path'] for city in cities] or cityname not in [city['name'] for city in cities]:
         citypath = cities[0]['path']
         cityname = cities[0]['name']
-    visupath = citypath.replace('csv_output','visu')
+    visupath = '/'.join(citypath.replace('csv_output','visu').split("/")[1:])
     str_df = request.GET["df"]
     if str_df not in dfs:
         str_df = 'df1'
@@ -40,7 +41,8 @@ def dashboard_view(request):
     # df_html = df.to_html(classes="table table-striped table-sm", index=False, justify='left')
     series = np.array([df[column] for column in df.columns])
     series = np.transpose(series)
-    context = {'df':df, 'series':series, 'citypath':citypath, 'cityname':cityname, 'visupath':visupath, 'str_df':str_df} #, 'df_html' : df_html
+    visudf = visupath + '/' + str_df + '.png'
+    context = {'df':df, 'series':series, 'citypath':citypath, 'cityname':cityname, 'visupath':visupath, 'str_df':str_df, 'visudf' : visudf} #, 'df_html' : df_html
     return render(request, 'divers/dashboard_page.html', context=context)
 
 
